@@ -1,4 +1,4 @@
-## Hi, I'm Fatihah Yahaya 👋
+## Hi, I'm Nur Fatihah Yahaya 👋
 
 <!--
 **qtea-4ever/qtea-4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
